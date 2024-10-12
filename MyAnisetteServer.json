@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Zee Anisette v3 Server",
+            "address": "https://zee-anisette-v3-server.onrender.com"
+        }
+    ]
+}
